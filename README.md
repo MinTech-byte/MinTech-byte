@@ -19,7 +19,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MinTech-byte.MinTech-byte&"  />
 </div>
 
 ###
